@@ -37,3 +37,5 @@ Exercice 3
  Pareil pour toto, je pourrais par exemple remplacer tous les toto présents par "tata".
 
 8) Cela nous emmène vers la classe String.
+
+Modification question 5) TD00 bis
